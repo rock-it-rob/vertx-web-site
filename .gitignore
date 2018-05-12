@@ -1,0 +1,5 @@
+# Node stuff
+node_modules/
+
+# Vert.x stuff
+.vertx/
